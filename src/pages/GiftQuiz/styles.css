@@ -1,0 +1,47 @@
+.gift-quiz {
+    color:white;
+}
+.sub-margin {
+    margin: 10px;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.gift_questions {
+    display: flex;
+    flex-direction: column;
+}
+
+.category-lover,
+.gift-is-for {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 10%;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.image-card {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.i-want-to-spend {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.find-your-gift {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.active {
+    border: 3px solid black;
+    box-shadow: 5px 6px white;
+}

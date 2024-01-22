@@ -1,0 +1,52 @@
+{
+    "wraps" : [
+        {
+            "key": "01",
+            "label": "heart shaped box",
+            "imgSrc": "https://i.ibb.co/ZBzZMvZ/box1.png",
+            "isSelected" : false,
+            "price" : 0,
+            "priceLabel" : "free"
+        },
+        {
+            "key": "02",
+            "label": "heart shaped box",
+            "imgSrc": "https://i.ibb.co/QJdm8WQ/box2.png",
+            "isSelected" : false,
+            "price" : 0,
+            "priceLabel" : "free"
+        },
+        {
+            "key": "03",
+            "label": "heart shaped box",
+            "imgSrc": "https://i.ibb.co/VqSL1g8/box3.png",
+            "isSelected" : false,
+            "price" : 0,
+            "priceLabel" : "free"
+        },
+        {
+            "key": "04",
+            "label": "heart shaped box",
+            "imgSrc": "https://i.ibb.co/ns4cfh0/box4.png",
+            "isSelected" : false,
+            "price" : 0,
+            "priceLabel" : "free"
+        },
+        {
+            "key": "05",
+            "label": "heart shaped box",
+            "imgSrc": "https://i.ibb.co/P4sCPVt/box5.png",
+            "isSelected" : false,
+            "price" : 0,
+            "priceLabel" : "free"
+        },
+        {
+            "key": "06",
+            "label": "heart shaped box",
+            "imgSrc": "https://i.ibb.co/GHZt2dB/box6.png",
+            "isSelected" : false,
+            "price" : 0,
+            "priceLabel" : "free"
+        }
+    ]
+}
